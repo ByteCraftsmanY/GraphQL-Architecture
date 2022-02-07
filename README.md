@@ -29,7 +29,7 @@ _Before deep dive into GraphQL architecture let's discuss some key points about 
 
   ![](./assets/images/graphql-architecture.png)
 
-this diagram clearly shows that the Graphql server and database are working together as a single unit.
+This diagram clearly shows that the Graphql server and database are working together as a single unit.
 
 ## Graphql Server Integrating Existing system
 
@@ -38,6 +38,7 @@ this diagram clearly shows that the Graphql server and database are working toge
 - In this architecture client queries are resolved by retrieving data from third-party APIs.
 - This architecture is mostly used by those companies that have very complicated systems
   ![](./assets/images/graphql-architecture2.png)
+  
   This diagram shows that the GraphQL server works as an intermediatory between frontend and backend services.
 
 ## Hybrid Approach
